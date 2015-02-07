@@ -7,4 +7,4 @@ for (var i = 999; i > 0; i--) {
         sum += i;
     }
 }
-document.write(sum);
+console.log(sum);
